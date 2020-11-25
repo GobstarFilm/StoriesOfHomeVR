@@ -1,7 +1,7 @@
 {
-"companyName": "Gobstar",
-"productName": "Stories Of Home WEBXR",
-"productVersion": "0.1",
+"companyName": "DefaultCompany",
+"productName": "Unity-WebXR-Export",
+"productVersion": "2.0",
 "dataUrl": "docs.data.unityweb",
 "wasmCodeUrl": "docs.wasm.code.unityweb",
 "wasmFrameworkUrl": "docs.wasm.framework.unityweb",
@@ -9,7 +9,6 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.14f1"

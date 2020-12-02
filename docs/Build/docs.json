@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Unity-WebXR-Export",
+"companyName": "Gobstar Films",
+"productName": "Stories of Home",
 "productVersion": "2.0",
 "dataUrl": "docs.data.unityweb",
 "wasmCodeUrl": "docs.wasm.code.unityweb",
@@ -9,6 +9,7 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.14f1"

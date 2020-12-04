@@ -3,7 +3,7 @@
 "productName": "Stories of Home",
 "productVersion": "2.0",
 "dataUrl": "docs.data.unityweb",
-"wasmCodeUrl": "docs.wasm",
+"wasmCodeUrl": "docs.wasm.code.unityweb",
 "wasmFrameworkUrl": "docs.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
